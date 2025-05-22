@@ -1,0 +1,15 @@
+Load-dependent ROIs were determined on the contrast of interest: 2-back vs 0-back, including 9 load-positive (2-back > 0-back) ROIs: bilateral anterior insula (AI), bilateral middle frontal gyrus (MFG), bilateral frontal eye field (FEF), bilateral intraparietal sulcus (IPS) and dorsomedial prefrontal cortex (DMPFC), and 2 load-negative (2-back < 0-back) ROIs: ventromedial prefrontal cortex (VMPFC) and posterior cingulate cortex (PCC). Each ROI was 6-mm radius sphere centered at the corresponding peak voxel. 
+
+Here are the ROI coordinates in MNI space:
+Node, x, y, z
+lAI, -32, 24, 2
+rAI, 36, 22, 0
+lMFG, -42, 24, 30
+rMFG, 40, 36, 34
+lFEF, -26, 2, 58
+rFEF, 30, 10, 56
+lIPL, -46, -44, 44
+rIPL, 52, -40, 50
+PCC, -12, -56, 16
+VMPFC, -2, 48, -8
+DMPFC, 4, 16, 50
